@@ -16,7 +16,18 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
    </div>
-    
-  
-  
-![Snake animation](https://github.com/EduuardoLS/EduuardoLS/blob/output/github-contribution-grid-snake.svg)
+
+
+
+   <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: work.edduardolima2005@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    </a>
+    <a href = "https://www.instagram.com/devparadev/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
