@@ -1,14 +1,22 @@
-
 ## Olá! Me chamo Carlos Eduardo
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduuardoLS&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduuardoLS)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=EduuardoLS&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuardoLS&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block">
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Tecnologias que utilizo</h1>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+  <img align="center" alt="ts" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+   </div>
+    
+  
+  
+![Snake animation](https://github.com/EduuardoLS/EduuardoLS/blob/output/github-contribution-grid-snake.svg)
