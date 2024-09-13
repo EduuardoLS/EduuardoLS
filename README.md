@@ -20,7 +20,7 @@
 
 
    <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.edduardolima2005@gmail.com">
+    <a href = "mailto: eduuardolima2005@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
