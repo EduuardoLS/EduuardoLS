@@ -23,11 +23,8 @@
     <a href = "mailto: eduuardolima2005@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
     </a>
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/eduuardo_ls/">
       <img width="25" src="instagram.png">
     </a>
 </div>
