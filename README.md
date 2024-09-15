@@ -30,5 +30,8 @@
     </a>
     <a href = "https://www.instagram.com/eduuardo_ls/">
       <img width="25" src="instagram.png">
+    <a href = "https://www.linkedin.com/in/carlos-eduardo-a67420329/">
+      <img width="25" src="linkedin.svg">
+    </a>
     </a>
 </div>
