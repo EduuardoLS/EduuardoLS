@@ -1,7 +1,7 @@
 ## ✨ About Me:
--Estudante de programação, focado atualmente na área de Front-End. Conhecimentos em HTML, CSS e nas linguagens JavaScript e Python. <br> 
--Cursando o 2º período de Análise e Desenvolvimento de Sistemas pela UNIT (Universidade Tiradentes). <br> 
--Nível de inglês: Médio/Intermediário
+- Estudante de programação, focado atualmente na área de Front-End. Conhecimentos em HTML, CSS e nas linguagens JavaScript e Python. <br> 
+- Cursando o 2º período de Análise e Desenvolvimento de Sistemas pela UNIT (Universidade Tiradentes). <br> 
+- Nível de inglês: Médio/Intermediário
 
 
 # 📊GitHub Stats
