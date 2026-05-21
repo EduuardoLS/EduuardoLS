@@ -13,14 +13,17 @@ Gradueted in **Systems Analysis and Development** From **Universidade Tiradentes
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/EduuardoLS">
-    <img src="https://img.shields.io/badge/GitHub-EduuardoLS-181717?style=for-the-badge&logo=github" />
+<div align="left">
+  <a href="https://instagram.com/eduuardo_ls" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.instagram.com/eduuardo_ls/">
-    <img src="https://img.shields.io/badge/Instagram-@eduuardo_ls-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:eduuardolima2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/eduuardolima/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
 
 ---
 
