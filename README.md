@@ -14,7 +14,7 @@ Gradueted in **Systems Analysis and Development** From **Universidade Tiradentes
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://https://github.com/EduuardoLS">
+  <a href="https://github.com/EduuardoLS">
     <img src="https://img.shields.io/badge/GitHub-EduuardoLS-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/eduuardo_ls/">
